@@ -38,7 +38,7 @@ git cherry-pick c4;
 
 git clone
 
-git status #'git checkout main' is 4 commands
+git status
 git commit
 git checkout o/main
 git commit
